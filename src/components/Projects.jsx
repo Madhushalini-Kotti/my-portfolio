@@ -14,7 +14,7 @@ function Projects() {
           title="TA Management System"
           techUsed={['React', 'Node.js', 'PostgreSQL', 'React', 'Node.js', 'PostgreSQL' ]}
           description="Built an end-to-end portal for the TA hiring process. Admins can easily view, select, and hire candidates. Automated notifications using Nodemailer. Responsive & clean UI for better user experience."
-          imageUrl="https://picsum.photos/300"
+          imageUrl="/assests/project1.png"
           links={[
             { name: 'GitHub', url: 'https://github.com' },
             { name: 'Live Demo', url: 'https://demo.com' }
@@ -25,7 +25,7 @@ function Projects() {
           title="Portfolio Website"
           techUsed={['React', 'CSS']}
           description="Personal Portfolio showcasing projects & experience. Responsive design with dark/light mode. Smooth animations & transitions."
-          imageUrl="/assests/portfolio.png"
+          imageUrl="/assests/project2.png"
           links={[
             { name: 'GitHub', url: 'https://github.com' },
             { name: 'Live Demo', url: 'https://demo.com' }
