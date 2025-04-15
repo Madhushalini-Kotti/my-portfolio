@@ -19,11 +19,6 @@ function ProjectCard({ title, techUsed, description, imageUrl, links, reverse })
           ))}
         </div>
 
-        <div className="project-links">
-          {links.map((link, index) => (
-            <a key={index} href={link.url} target="_blank" rel="noreferrer">{link.name}</a>
-          ))}
-        </div>
       </div>
     </div>
   )

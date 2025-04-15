@@ -11,28 +11,25 @@ function Experience() {
 
       <div className="experience-cards">
         <Card 
-          title="Software Developer " 
+          title="Research Assistant" 
           company="Florida Atlantic University" 
           duration="January 2024 – Present" 
-          description="Elevated the educational experience for 73,000 students by leveraging the power of Python, Django, Celery, Django Rest Framework, and Redis to deliver seamless APIs. 
-            Demonstrated strong interpersonal skills by effectively communicating and collaborating with cross-functional teams."
+          description="Developed and maintained a TA Management System using Node.js, Express.js, and ReactJS, integrating JWT Authentication and Role-Based Access Control for managing user permissions across 10+ university departments. Created dynamic front-end components with ReactJS, utilizing Tailwind CSS and Bootstrap to enhance performance and improve user experience for 500+ users. Ensured API integrity with backend testing using Jest and Supertest, achieving 98% test coverage."
           imageUrl="/assests/fau-logo.png"
         />
         <Card 
           title="Software Development Engineer Intern" 
           company="Amazon" 
-          duration="Januray 2023 – June 2023" 
-          description="Created and deployed 10+ scalable Microservices using Java Spring Boot with object-oriented design (OOP), enhancing the modularity and maintainability of the application. 
-            Spearheaded integration of privacy and security measures, collaborating with R&D, implementing JWT, OAuth, Spring Security, input validations, and rate limiting, improving system security."
+          duration="Januray 2023 – July 2023" 
+          description="Designed scalable backend services with Java and Spring Boot, implementing RESTful APIs and Microservices architecture to handle over 100,000 daily product transactions. Developed admin dashboards using ReactJS and integrated with AWS RDS and CloudWatch to monitor and reduce system downtime by 30%. Ensured high code quality with JUnit and Mockito testing, and streamlined CI/CD pipelines with GitHub Actions for automated deployment."
           imageUrl="/assests/amazon-logo.png"
         />
         <Card 
-          title="Software Engineer" 
-          company="Persistent Systems" 
-          duration="June 2020 – Januray 2023" 
-          description="Assisted senior employees in crafting components for Spring Boot, Microservices, debugging, and implementing Spring Security to ensure robust authentication and authorization mechanisms.
-            Developed an intern allocation project using Golang and React, accelerating intern-to-department assignments by 30%."
-          imageUrl="/assests/amazon-logo.png"
+          title="Software Developer" 
+          company="Physics Wallah" 
+          duration="Janurary 2021 – December 2022" 
+          description="Developed and deployed a student portal with Node.js and MongoDB, supporting 10,000+ students, improving engagement by 25%. Led the optimization of AngularJS and Vue.js components, reducing page load time by 30% and boosting course completion rates by 20%. Engineered RESTful APIs with Node.js, enhancing data synchronization and reducing response times. Improved system security with JWT and OAuth2, increasing data protection reliability"
+          imageUrl="/assests/pw-logo.png"
         />
         
       </div>

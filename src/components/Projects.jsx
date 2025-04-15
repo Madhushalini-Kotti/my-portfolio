@@ -10,29 +10,42 @@ function Projects() {
       </div>
 
       <div className="projects-cards">
-        <ProjectCard
-          title="TA Management System"
-          techUsed={['React', 'Node.js', 'PostgreSQL', 'React', 'Node.js', 'PostgreSQL' ]}
-          description="Built an end-to-end portal for the TA hiring process. Admins can easily view, select, and hire candidates. Automated notifications using Nodemailer. Responsive & clean UI for better user experience."
-          imageUrl="/assests/project1.png"
-          links={[
-            { name: 'GitHub', url: 'https://github.com' },
-            { name: 'Live Demo', url: 'https://demo.com' }
-          ]}
-        />
+  <ProjectCard
+    title="Gym Progress Tracking System"
+    techUsed={['React', 'Node.js', 'Express.js', 'MySQL', 'Docker', 'AWS EC2', 'AWS S3', 'CloudWatch']}
+    description="Developed a scalable full-stack application for workout tracking and progress predictions. Containerized using Docker and deployed on AWS EC2 with high availability and performance."
+    imageUrl="/assests/gym-progress.png"
+    links={[
+      { name: 'GitHub', url: 'https://github.com' },
+      { name: 'Live Demo', url: 'https://demo.com' }
+    ]}
+  />
 
-        <ProjectCard
-          title="Portfolio Website"
-          techUsed={['React', 'CSS']}
-          description="Personal Portfolio showcasing projects & experience. Responsive design with dark/light mode. Smooth animations & transitions."
-          imageUrl="/assests/project2.png"
-          links={[
-            { name: 'GitHub', url: 'https://github.com' },
-            { name: 'Live Demo', url: 'https://demo.com' }
-          ]}
-          reverse
-        />
-      </div>
+  <ProjectCard
+    title="Personal Expense Tracker"
+    techUsed={['React', 'PostgreSQL', 'AWS EC2', 'AWS Lambda', 'AWS S3']}
+    description="Designed and developed a full-stack Personal Expense Tracker with a ReactJS front-end and PostgreSQL backend. Deployed on AWS EC2, leveraging AWS Lambda for serverless expense categorization."
+    imageUrl="/assests/personal-expense.png"
+    links={[
+      { name: 'GitHub', url: 'https://github.com' },
+      { name: 'Live Demo', url: 'https://demo.com' }
+    ]}
+    reverse
+  />
+
+  <ProjectCard
+    title="Portfolio Website"
+    techUsed={['React','HTML', 'CSS']}
+    description="Personal Portfolio showcasing projects & experience. Responsive design with dark/light mode and smooth animations."
+    imageUrl="/assests/portfolio.png"
+    links={[
+      { name: 'GitHub', url: 'https://github.com' },
+      { name: 'Live Demo', url: 'https://demo.com' }
+    ]}
+  />
+</div>
+
+
     </section>
   )
 }
