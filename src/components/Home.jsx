@@ -14,7 +14,7 @@ function Home() {
           <div className="social-links">
             <a href="https://github.com/Madhushalini-Kotti" target="_blank" rel="noreferrer noopener" className="social-link">GitHub</a>
             <a href="https://www.linkedin.com/in/madhushalinikotti/" target="_blank" rel="noreferrer noopener" className="social-link">LinkedIn</a>
-            <a href="https://drive.google.com/file/d/1yLHJGHqSQdhjb_92TdkwdbWe5-YQCHh3/view?usp=sharing" target="_blank" rel="noreferrer noopener" className="social-link">Resume</a>
+            <a href="https://drive.google.com/file/d/1xiCK0DUDTKACWE-dKC2LatUosxH5grqi/view?usp=sharings" target="_blank" rel="noreferrer noopener" className="social-link">Resume</a>
           </div>
         </div>
         <div className="home-photo">
