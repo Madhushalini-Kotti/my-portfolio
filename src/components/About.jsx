@@ -6,16 +6,16 @@ function About() {
     <section className="about" id="about">
       <div className="about-container">
         <div className="about-photo">
-          <img src="/assests/desktop.jpeg" alt="Madhushalini Kotti" />
+          <img src="/assets/desktop.jpeg" alt="Madhushalini Kotti" />
         </div>
         <div className="about-text">
           <h2 className="about-title">About Me</h2>
           <p className="about-description">
-            Hi, I’m Madhushalini Kotti, a Full Stack Developer currently pursuing my Master’s in Computer Science at Florida Atlantic University (GPA: 3.81). I’ve contributed to impactful projects at Amazon and FAU, focusing on scalable, cloud-native solutions. <br /> 
+            Hi, I’m Madhushalini Kotti — a Full Stack Developer with hands-on experience in building secure, scalable, and cloud-native applications. I recently completed my Master’s in Computer Science from Florida Atlantic University (GPA: 3.83), with internship experience at Amazon and software development work at FAU.<br /><br />
 
-Skilled in ReactJS, Node.js, Spring Boot, and PostgreSQL, I build secure, high-performance applications using AWS, Docker, and modern CI/CD pipelines. I enjoy crafting clean APIs, responsive interfaces, and real-time features that improve user experience and system efficiency.<br />
+            I'm skilled in ReactJS, Node.js, Spring Boot, and PostgreSQL, and have practical exposure to AWS, Docker, and modern CI/CD pipelines. I enjoy creating clean APIs, responsive UIs, and real-time features that improve user experience and system performance.<br /><br />
 
-            I'm open to Software Developer roles, including Full Stack, Frontend, Backend, and Cloud Engineering — available for On-site, Hybrid, or Remote opportunities.
+            I’m actively seeking entry-level Software Developer roles — Full Stack, Frontend, Backend, or Cloud — and open to On-site, Hybrid, or Remote opportunities.
           </p>
         </div>
       </div>

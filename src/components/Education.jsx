@@ -14,9 +14,9 @@ function Education() {
           title="Master of Science in Computer Science" 
           company="Florida Atlantic University" 
           duration="August 2023 – April 2025" 
-          description="Pursuing a Master's degree with a focus on software engineering, machine learning, and data structures. Completed several advanced courses in AI, cloud computing, and distributed systems."
-          imageUrl="/assests/fau-logo.png"
-          gpa="3.81/4.00"
+          description="Completed a Master’s degree in Computer Science with a focus on software engineering, machine learning, and data structures. Gained advanced knowledge through coursework in AI, cloud computing, and distributed systems."
+          imageUrl="/assets/fau-logo.png"
+          gpa="3.83/4.00"
         />
 
         <Card 
@@ -24,7 +24,7 @@ function Education() {
           company="Anurag University" 
           duration="August 2019 – May 2023" 
           description="Completed coursework in data structures, web development, and database systems. Actively participated in technical fests and published academic research papers."
-          imageUrl="/assests/au-logo.jpeg"
+          imageUrl="/assets/au-logo.jpeg"
           gpa="3.7/4.00"
         />
       </div>
