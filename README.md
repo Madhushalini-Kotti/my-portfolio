@@ -1,70 +1,77 @@
-# Getting Started with Create React App
+# 🌐 Madhushalini Kotti – Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Hi, I’m Madhushalini Kotti — an enthusiastic Full Stack Software Developer passionate about building secure, scalable, and cloud-native applications. I recently completed my Master’s in Computer Science from Florida Atlantic University (GPA: 3.83) and am actively seeking entry-level or new graduate roles in Software Development to kickstart my professional journey.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🔍 About Me
 
-### `npm start`
+💻 Strong foundation in full-stack development with modern web technologies  
+☁️ Hands-on experience with cloud platforms, containerization, and CI/CD pipelines  
+🧠 Solid understanding of software engineering, system design, and Agile workflows  
+💬 Dedicated to writing clean code, building user-friendly interfaces, and solving real-world problems  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🛠️ Technical Skills
 
-### `npm test`
+### 💡 Languages  
+JavaScript, Java, Python, SQL, TypeScript, C/C++
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 🎯 Frontend  
+React.js, Next.js, AngularJS, HTML5, CSS3, Tailwind CSS, Bootstrap, Material UI, jQuery, Chart.js
 
-### `npm run build`
+### 🧩 Backend  
+Node.js, Express.js, Java Spring Boot (REST APIs, MVC, Microservices, Hibernate, Spring Security, Spring Cloud Config)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### ☁️ Cloud & DevOps  
+**AWS:** EC2, S3, Lambda, RDS, CloudWatch, CodePipeline  
+**Azure:** App Services, Functions, SQL Database  
+Docker, GitHub Actions, Jenkins
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### 🗃️ Databases  
+PostgreSQL, MySQL, MongoDB
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### 🔄 Tools & Other  
+Git, GitHub, GitLab, Postman, Figma, VS Code, Agile, REST API Design, OAuth2, JWT Authentication
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 💼 Projects
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### 🧑‍🏫 Teaching Assistant Management System  
+> A centralized system to streamline TA hiring at FAU  
+- Built with React.js, Node.js, Express, PostgreSQL  
+- Features real-time messaging, scheduling tools, and role-based workflows  
+- Reduced faculty turnaround time by 70%
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### 🏋️ Gym Progress Tracking System  
+> A cloud-native platform for fitness tracking  
+- Stack: AngularJS, Node.js, MySQL, AWS EC2/RDS/Lambda  
+- Enabled real-time workout logging and monitoring  
+- Used Docker for deployment and S3 for image storage
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### 💸 Personal Expense Tracker  
+> A full-stack system for expense categorization and insights  
+- ReactJS frontend, Spring Boot backend, PostgreSQL + AWS  
+- Used AWS Lambda for automation and S3 for receipts  
+- Supported over 500 users with responsive performance
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 🚀 Live Website  
+Visit my portfolio: [https://madhushalinikotti.com](my-portfolio-theta-ochre-27.vercel.app)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
+## 📫 Contact  
+I’m currently looking for **entry-level opportunities** in Full Stack, Frontend, Backend, or Cloud Engineering roles.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+📍 Based in Florida — Open to Remote, Hybrid, or On-site roles across the U.S.  
+📧 Email: madhushalinireddyk@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/madhushalinikotti/)  
+💻 [GitHub](https://github.com/Madhushalini-Kotti)
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Thank you for visiting!
