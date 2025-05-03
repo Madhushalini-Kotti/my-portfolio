@@ -60,7 +60,7 @@ Git, GitHub, GitLab, Postman, Figma, VS Code, Agile, REST API Design, OAuth2, JW
 ---
 
 ## 🚀 Live Website  
-Visit my portfolio: [https://madhushalinikotti.com](my-portfolio-theta-ochre-27.vercel.app)
+Visit my portfolio: [Click here to view my portfolio](https://my-portfolio-theta-ochre-27.vercel.app)
 
 ---
 
